@@ -231,6 +231,10 @@ M.plugins = {
   LspReferenceRead = { bg = c.fg_gutter, style = 'bold' },
   LspReferenceText = { bg = c.fg_gutter, style = 'bold' },
   LspReferenceWrite = { bg = c.fg_gutter, style = 'bold' },
+  -- Marks
+  MarkSignHL = { fg = c.gray },
+  MarkSignNumHL = { fg = c.gray },
+  MarkVirtTextHL = { fg = c.gray },
   -- Neogit
   NeogitBranch = { fg = c.magenta },
   NeogitRemote = { fg = c.purple },
