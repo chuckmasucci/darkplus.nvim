@@ -28,6 +28,7 @@ return {
   error_red = '#F44747',
   warning_orange = '#ff8800',
   info_yellow = '#FFCC66',
+  info_yellow_dark = '#8f7542',
   hint_blue = '#4FC1FF',
   ui_blue = '#264F78',
   diff_add = '#587c0c',

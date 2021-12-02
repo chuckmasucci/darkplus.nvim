@@ -151,7 +151,7 @@ M.plugins = {
   BufferInactiveTarget = { fg = c.red, bg = c.dark, style = 'bold' },
   BufferVisible = { fg = c.context, bg = c.bg },
   BufferVisibleIndex = { fg = c.context, bg = c.bg },
-  BufferVisibleMod = { fg = c.info_yellow, bg = c.bg },
+  BufferVisibleMod = { fg = c.info_yellow_dark, bg = c.bg },
   BufferVisibleSign = { fg = c.gray, bg = c.bg },
   BufferVisibleTarget = { fg = c.red, bg = c.bg, style = 'bold' },
   -- Cmp
